@@ -9,7 +9,7 @@ span
 }
 #camera , #result
 {
-  border: 2px dashed rgb(255, 173, 22);
+  border: 2px dashed black;
   width: 350px;
   height: 300px; 
 }
@@ -36,7 +36,7 @@ span
 label
 {
 font-size: 25px;
-color: rgb(15, 219, 255);
+color: steelblue;
 background-color: lightgreen;
 border-radius: 10px;
 }
